@@ -1,0 +1,16 @@
+h1{
+color:red;
+font-size: 90px;
+}
+
+
+p{
+font-size: 40px;
+color: brown;
+}
+
+span{
+font-size: 40px;
+color: blue;
+float: right; 
+}
